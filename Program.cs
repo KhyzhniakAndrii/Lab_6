@@ -10,7 +10,9 @@ namespace Lab_6MT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world!");
+            int x = 5;
+            int y = 10;
+            Console.WriteLine(x + y);
         }
     }
 }
